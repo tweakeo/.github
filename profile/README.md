@@ -11,14 +11,12 @@ Directorio central de proyectos de la organización: landing pages, aplicaciones
 ![Privados](https://img.shields.io/badge/Privados-4-6f42c1?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-HTML%20·%20TypeScript%20·%20Python-f1502f?style=for-the-badge)
 
-</div>
-
 ---
 
 ## 🗂️ Índice de proyectos
 
 | Proyecto | Subproyecto | Repos |
-|---|---|:--:|
+|:---:|:---:|:---:|
 | [🤖 HUB-N8N](#-hub-n8n) | — | 1 |
 | [🍽️ Hostelería](#️-hostelería) | [🧁 Paletos Club](#-paletos-club) · [🤠 Dalton's](#-daltons) · [🍰 Cheesecake Brothers](#-cheesecake-brothers) · [🧮 Herramientas](#-herramientas) | 5 |
 | [🧪 Proyecto Micronixing](#-proyecto-micronixing) | [📈 Invertir a Largo Plazo](#-invertir-a-largo-plazo) | 1 |
@@ -33,7 +31,7 @@ Directorio central de proyectos de la organización: landing pages, aplicaciones
 Infraestructura central de automatizaciones con n8n.
 
 | Repositorio | Descripción | Tipo | Lenguaje |
-|---|---|:--:|:--:|
+|:---:|:---:|:---:|:---:|
 | [**hub-n8n**](https://github.com/Tweakeo/hub-n8n) | Hub de automatizaciones con n8n | 🔒 | `Python` |
 
 ---
@@ -45,17 +43,17 @@ Proyectos del vertical de hostelería y restauración.
 ### 🧁 Paletos Club
 
 | Repositorio | Descripción | Tipo | Lenguaje |
-|---|---|:--:|:--:|
+|:---:|:---:|:---:|:---:|
 | [**paletos-app**](https://github.com/Tweakeo/paletos-app) | Aplicación de Paletos Club | 🔒 | `TypeScript` |
 
 ### 🤠 Dalton's
 
-> 🚧 Sin repositorios todavía. Los proyectos de Dalton's aparecerán aquí.
+🚧 Sin repositorios todavía. Los proyectos de Dalton's aparecerán aquí.
 
 ### 🍰 Cheesecake Brothers
 
 | Repositorio | Descripción | Tipo | Lenguaje |
-|---|---|:--:|:--:|
+|:---:|:---:|:---:|:---:|
 | [**cheesecake-brothers**](https://github.com/Tweakeo/cheesecake-brothers) | Landing page de Cheesecake Brothers | 🌐 | `HTML` |
 | [**CHEESECAKE-BROTHERS-COWORK**](https://github.com/Tweakeo/CHEESECAKE-BROTHERS-COWORK) | Espacio de trabajo / cowork del proyecto | 🔒 | `HTML` |
 
@@ -66,7 +64,7 @@ Proyectos del vertical de hostelería y restauración.
 Calculadoras y utilidades web para cocina y producción.
 
 | Repositorio | Descripción | Tipo | Lenguaje |
-|---|---|:--:|:--:|
+|:---:|:---:|:---:|:---:|
 | [**calculadora-salsas**](https://github.com/Tweakeo/calculadora-salsas) | Calculadora de salsas | 🌐 | `HTML` |
 | [**calculadora-postres**](https://github.com/Tweakeo/calculadora-postres) | Calculadora de postres | 🌐 | `HTML` |
 
@@ -82,24 +80,22 @@ Calculadoras y utilidades web para cocina y producción.
 Producto de contenido financiero para `invertiralargoplazo.com`.
 
 | Repositorio | Descripción | Tipo | Lenguaje |
-|---|---|:--:|:--:|
+|:---:|:---:|:---:|:---:|
 | [**invertiralargoplazo-news**](https://github.com/Tweakeo/invertiralargoplazo-news) | Pipeline automatizado de noticias para invertiralargoplazo.com | 🔒 | `Python` |
 
 ---
 
 ## 🧩 Proyecto G.G.G.
 
-> 🚧 Proyecto en preparación. Sin repositorios todavía.
+🚧 Proyecto en preparación. Sin repositorios todavía.
 
 ---
 
 ## 🗄️ Proyectos archivados
 
-> Actualmente **no hay repositorios archivados** en la organización. Cuando se archive alguno, aparecerá listado en esta sección.
+Actualmente **no hay repositorios archivados** en la organización. Cuando se archive alguno, aparecerá listado en esta sección.
 
 ---
-
-<div align="center">
 
 ### 🔗 Enlaces
 
