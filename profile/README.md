@@ -6,10 +6,10 @@
 
 Directorio central de proyectos de la organización: landing pages, aplicaciones, calculadoras y pipelines de automatización.
 
-![Repositorios](https://img.shields.io/badge/Repositorios-7-2188ff?style=for-the-badge&logo=github)
-![Públicos](https://img.shields.io/badge/Públicos-3-2ea44f?style=for-the-badge)
+![Repositorios](https://img.shields.io/badge/Repositorios-8-2188ff?style=for-the-badge&logo=github)
+![Públicos](https://img.shields.io/badge/Públicos-4-2ea44f?style=for-the-badge)
 ![Privados](https://img.shields.io/badge/Privados-4-6f42c1?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-HTML%20·%20TypeScript%20·%20Python-f1502f?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-HTML%20·%20TypeScript%20·%20JavaScript%20·%20Python%20·%20CSS-f1502f?style=for-the-badge)
 
 ---
 
@@ -17,12 +17,25 @@ Directorio central de proyectos de la organización: landing pages, aplicaciones
 
 | Proyecto | Subproyecto | Repos |
 |:---:|:---:|:---:|
+| [🗺️ Organización](#️-organización) | — | 1 |
 | [🤖 HUB-N8N](#-hub-n8n) | — | 1 |
 | [🍽️ Hostelería](#️-hostelería) | [🧁 Paletos Club](#-paletos-club) · [🤠 Dalton's](#-daltons) · [🍰 Cheesecake Brothers](#-cheesecake-brothers) · [🧮 Herramientas](#-herramientas) | 5 |
 | [🧪 Proyecto Micronixing](#-proyecto-micronixing) | [📈 Invertir a Largo Plazo](#-invertir-a-largo-plazo) | 1 |
 | [🧩 Proyecto G.G.G.](#-proyecto-ggg) | — | 0 |
 
 > 🌐 = Repositorio público · 🔒 = Repositorio privado (visible solo para miembros de la organización)
+
+---
+
+## 🗺️ Organización
+
+Recursos transversales de la organización.
+
+| Repositorio | Descripción | Tipo | Lenguaje |
+|:---:|:---:|:---:|:---:|
+| [**roadmap**](https://github.com/Tweakeo/roadmap) | Hoja de ruta de productos y proyectos de Tweakeo | 🌐 | `CSS` |
+
+![Last commit](https://img.shields.io/github/last-commit/Tweakeo/roadmap?label=roadmap&style=flat-square)
 
 ---
 
@@ -66,7 +79,7 @@ Calculadoras y utilidades web para cocina y producción.
 | Repositorio | Descripción | Tipo | Lenguaje |
 |:---:|:---:|:---:|:---:|
 | [**calculadora-salsas**](https://github.com/Tweakeo/calculadora-salsas) | Calculadora de salsas | 🌐 | `HTML` |
-| [**calculadora-postres**](https://github.com/Tweakeo/calculadora-postres) | Calculadora de postres | 🌐 | `HTML` |
+| [**calculadora-postres**](https://github.com/Tweakeo/calculadora-postres) | Calculadora de postres | 🌐 | `JavaScript` |
 
 ![Last commit](https://img.shields.io/github/last-commit/Tweakeo/calculadora-salsas?label=calculadora-salsas&style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/Tweakeo/calculadora-postres?label=calculadora-postres&style=flat-square)
@@ -101,6 +114,6 @@ Actualmente **no hay repositorios archivados** en la organización. Cuando se ar
 
 [Repositorios](https://github.com/orgs/Tweakeo/repositories) · [Personas](https://github.com/orgs/Tweakeo/people)
 
-<sub>📌 Índice mantenido en <code>.github/profile/README.md</code> · Última actualización: 2026-06-08</sub>
+<sub>📌 Índice mantenido en <code>.github/profile/README.md</code> · Última actualización: 2026-06-21</sub>
 
 </div>
