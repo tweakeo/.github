@@ -6,8 +6,8 @@
 
 Directorio central de proyectos de la organización: landing pages, aplicaciones, calculadoras y pipelines de automatización.
 
-![Repositorios](https://img.shields.io/badge/Repositorios-8-2188ff?style=for-the-badge&logo=github)
-![Públicos](https://img.shields.io/badge/Públicos-4-2ea44f?style=for-the-badge)
+![Repositorios](https://img.shields.io/badge/Repositorios-9-2188ff?style=for-the-badge&logo=github)
+![Públicos](https://img.shields.io/badge/Públicos-5-2ea44f?style=for-the-badge)
 ![Privados](https://img.shields.io/badge/Privados-4-6f42c1?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-HTML%20·%20TypeScript%20·%20JavaScript%20·%20Python%20·%20CSS-f1502f?style=for-the-badge)
 
@@ -19,7 +19,7 @@ Directorio central de proyectos de la organización: landing pages, aplicaciones
 |:---:|:---:|:---:|
 | [🗺️ Organización](#️-organización) | — | 1 |
 | [🤖 HUB-N8N](#-hub-n8n) | — | 1 |
-| [🍽️ Hostelería](#️-hostelería) | [🧁 Paletos Club](#-paletos-club) · [🤠 Dalton's](#-daltons) · [🍰 Cheesecake Brothers](#-cheesecake-brothers) · [🧮 Herramientas](#-herramientas) | 5 |
+| [🍽️ Hostelería](#️-hostelería) | [🧁 Paletos Club](#-paletos-club) · [🤠 Dalton's](#-daltons) · [🍰 Cheesecake Brothers](#-cheesecake-brothers) · [🧮 Herramientas](#-herramientas) · [📊 Reportes](#-reportes) | 6 |
 | [🧪 Proyecto Micronixing](#-proyecto-micronixing) | [📈 Invertir a Largo Plazo](#-invertir-a-largo-plazo) | 1 |
 | [🧩 Proyecto G.G.G.](#-proyecto-ggg) | — | 0 |
 
@@ -84,6 +84,16 @@ Calculadoras y utilidades web para cocina y producción.
 ![Last commit](https://img.shields.io/github/last-commit/Tweakeo/calculadora-salsas?label=calculadora-salsas&style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/Tweakeo/calculadora-postres?label=calculadora-postres&style=flat-square)
 
+### 📊 Reportes
+
+Seguimiento de tareas y reportes operativos.
+
+| Repositorio | Descripción | Tipo | Lenguaje |
+|:---:|:---:|:---:|:---:|
+| [**Checklist-Tareas---Frontend**](https://github.com/Tweakeo/Checklist-Tareas---Frontend) | Checklist y reporte de tareas de frontend | 🌐 | `JavaScript` |
+
+![Last commit](https://img.shields.io/github/last-commit/Tweakeo/Checklist-Tareas---Frontend?label=checklist-tareas-frontend&style=flat-square)
+
 ---
 
 ## 🧪 Proyecto Micronixing
@@ -114,6 +124,6 @@ Actualmente **no hay repositorios archivados** en la organización. Cuando se ar
 
 [Repositorios](https://github.com/orgs/Tweakeo/repositories) · [Personas](https://github.com/orgs/Tweakeo/people)
 
-<sub>📌 Índice mantenido en <code>.github/profile/README.md</code> · Última actualización: 2026-06-21</sub>
+<sub>📌 Índice mantenido en <code>.github/profile/README.md</code> · Última actualización: 2026-06-26</sub>
 
 </div>
